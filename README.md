@@ -14,12 +14,12 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 
 | Summary          |  Favorite Languages         |   My Streak        | Summary|
 |-----------|-----------|-----------|------------|
-|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=pie) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | ![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=vue-dark&hide_border=false&card_width=100px&include_all_commits=true&combine_all_yearly_contributions=true&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=pie) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
 
 
-| Summary          |  Favorite Languages (Compact)  | Favorite Languages (Donut) |
+| Summary          |  Favorite Languages (Compact)  | Repos Contribution |
 |-----------|-----------|------------------------------------------------------|
-|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | [](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut) |
+|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=vue-dark&hide_border=false&card_width=100px&include_all_commits=true&combine_all_yearly_contributions=true&layout=compact)|
 ---
 ### 🔝 Top Contributed Repo
 
