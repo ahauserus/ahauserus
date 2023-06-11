@@ -19,6 +19,7 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 ![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&combine_all_yearly_contributions=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahauserus&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
