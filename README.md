@@ -2,9 +2,7 @@
 I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expertise in software development, UX/UI design, and cyber security, I excel in creating well-organized and collaborative projects. Through my technical proficiency, user-centric design approach, and commitment to security, I deliver innovative solutions that meet the diverse needs of clients and users.
 
 
-## 🌐 Socials:
-|       |       |       |       |
-|-------|-------|-------|-------|
+## 🌐 Social
 |[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahauserus) | [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ahauserus) | [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahauserus) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahauserus) |
 
 
