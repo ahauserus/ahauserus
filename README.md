@@ -20,5 +20,5 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=vue-dark&hide_border=false&card_width=100px&include_all_commits=true&combine_all_yearly_contributions=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahauserus](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahauserus](https://github.com/ahauserus/github-readme-stats)
 
