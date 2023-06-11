@@ -12,7 +12,7 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 
 | Summary          |  Favorite Languafes         |   My Streak        |
 |-----------|-----------|-----------|
-|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
+|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs,prs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
 
 ---
 ### 🔝 Top Contributed Repo
