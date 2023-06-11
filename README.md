@@ -12,9 +12,9 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 
 # 📊 GitHub Stats:
 
-|My Streak   |  
-|-----------|
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
+|My Streak   |        |
+|-----------|----------|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 | Summary          |  Favorite Languages (Compact)  | Repos Contribution |
