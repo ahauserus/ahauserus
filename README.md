@@ -1,5 +1,5 @@
-## 💫 About Me:
-I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expertise in software development, UX/UI design, and cyber security, I excel in creating well-organized and collaborative projects. Through my technical proficiency, user-centric design approach, and commitment to security, I deliver innovative solutions that meet the diverse needs of clients and users.
+### 💫 About Me
+I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Kenya. With expertise in software development, UX/UI design, and cyber security. I excel in creating well-organized and collaborative projects. Through my technical proficiency, user-centric design approach, and commitment to security, I deliver innovative solutions that meet the diverse needs of clients and users.
 
 
 ### 🌐 Social
