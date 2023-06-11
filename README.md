@@ -18,6 +18,6 @@ I am Ahauserus, a highly skilled professional based in Nairobi, Kenya. With expe
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=vue-dark&hide_border=false&card_width=1500px  (approx.)&include_all_commits=true&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=Ahauserus&limit=5&theme=vue-dark&hide_border=false&card_width=1500&include_all_commits=true&combine_all_yearly_contributions=false)
 
 
