@@ -1,5 +1,5 @@
 ### 💫 About Me
-I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Kenya. With expertise in software development, UX/UI design, and cyber security. I excel in creating well-organized and collaborative projects. Through my technical proficiency, user-centric design approach, and commitment to security, I deliver innovative solutions that meet the diverse needs of clients and users.
+I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Kenya. With expertise in software development, UX/UI design, and cyber security, I excel in creating well-organized and collaborative projects. Through my technical proficiency, user-centric design approach, and commitment to security, I deliver innovative solutions that meet the diverse needs of clients and users.
 
 
 ### 🌐 Social
@@ -13,7 +13,7 @@ I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Ke
 ### 📊 GitHub Stats:
 
 | Summary          |  Favorite Languages  | My Streak |
-|-----------|-----------|------------------------------------------------------|
+|------------------|----------------------|-----------|
 |![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
 ---
 
