@@ -21,6 +21,6 @@ Design Tools <br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats:
-| Summary          | My Streak |
+| Summary          | Contribution and Streak |
 |------------------|-----------|
-|![pass](https://github-readme-stats.vercel.app/api?username=Ahauserus&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
+|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
