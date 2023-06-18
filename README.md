@@ -12,9 +12,9 @@ I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Ke
 
 ### 📊 GitHub Stats:
 
-| Summary          |  Favorite Languages  | My Streak |
-|------------------|----------------------|-----------|
-|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
+| Summary          | My Streak |
+|------------------|-----------|
+|![](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
 ---
 
 <div  display: block>
@@ -26,6 +26,8 @@ I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Ke
 <img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>
 </p>
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 
 
