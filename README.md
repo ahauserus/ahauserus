@@ -19,7 +19,11 @@ I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Ke
 
 <div  display: block>
 <p align="center">
-<img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)" align = "center"/>
+<img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>
+</p>
+
+<p align="center">
+<img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>
 </p>
 </div>
 
