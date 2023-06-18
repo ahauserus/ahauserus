@@ -23,4 +23,4 @@ Design Tools <br>
 ### 📊 GitHub Stats:
 | Summary          | My Streak |
 |------------------|-----------|
-|![pass](https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&height=300px) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
+|![pass](https://github-readme-stats.vercel.app/api?username=Ahauserus&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) |
