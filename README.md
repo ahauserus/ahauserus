@@ -14,14 +14,11 @@ I am Ahauserus (pseudo name), a highly skilled professional based in Nairobi, Ke
 
 | Summary          | My Streak |
 |------------------|-----------|
-|![](<p align="center">
-<img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
+|![](<img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false") | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahauserus&theme=vue-dark&hide_border=true) | 
 ---
 
 <div  display: block>
-<p align="center">
 <img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>
-</p>
 
 <p align="center">
 <img height="180em" width="1500px" src="https://github-readme-stats.vercel.app/api?username=Ahauserus&hide=contribs&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" align = "center"/>
